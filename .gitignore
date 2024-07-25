@@ -1,0 +1,20 @@
+# folders
+node_modules
+frontend/build/
+
+# scripts
+.Python
+.DS_Store
+.idea
+.DS
+.ipynb_checkpoints
+develop-eggs/
+.eggs/
+lib/
+lib64/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+__pycache__/
+*_venv/
